@@ -1,0 +1,10 @@
+content:
+- Scopes
+- Loop control statements
+- Lambda functions
+- List comprehension
+- Map and filter
+- Custom generators
+- Iterators
+- Itertools module
+- Default arguments
